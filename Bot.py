@@ -37,7 +37,7 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://graph.org/file/238cc6eb7550993441dfb.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀs ᴍᴇɴᴛɪᴏɴ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Anbesivam_Owner)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FantasyWorldTamil)┓\n┣★ ʀᴇᴘᴏ › : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FantasyWorldTamil)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/BRANDEDKING82) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀs ᴍᴇɴᴛɪᴏɴ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Anbesivam_Owner)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FantasyWorldTamil)┓\n┣★ ʀᴇᴘᴏ › : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FantasyWorldTamil)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Anbesivam_Owner) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/ASmentionbot?startgroup=true")],
