@@ -15,3 +15,35 @@
     },
     "buildpacks": [{"url": "heroku/python"}]
 }
+{
+  "name": "Manmathanchatbot",
+  "description": "A telegram bot",
+  "logo": "https://te.legra.ph/file/f500ef905dd098e16e57c.jpg",
+  "keywords": [
+    "Chatbot",
+    "mongodb",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "repository": "https://github.com/",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "A Bot token from @BotFather",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Fill Here Your Owner User Id",
+      "required": true,
+      "value": "1808943146"
+    },
+    "MONGO_URL": {
+      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "required": true,
+      "value": ""
+    }
+  }
+}
